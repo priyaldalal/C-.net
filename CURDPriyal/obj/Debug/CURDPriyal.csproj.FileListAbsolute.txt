@@ -1,0 +1,6 @@
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\bin\CURDPriyal.dll.config
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\bin\CURDPriyal.dll
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\bin\CURDPriyal.pdb
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\obj\Debug\CURDPriyal.dll
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\obj\Debug\CURDPriyal.pdb
+D:\PRIYAL SOURCE\webcurdproject\CURDPriyal\obj\Debug\CURDPriyal.csprojResolveAssemblyReference.cache
